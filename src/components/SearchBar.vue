@@ -5,7 +5,7 @@
       <v-text-field
         v-model="keyword"
         v-on:keyup.enter="passkeyword"
-        label="검색어를 입력하세요"
+        label="검색어를 입력하세요!"
       ></v-text-field>
     </v-flex>
     <v-flex p>
